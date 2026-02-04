@@ -44,5 +44,4 @@ The intermediate code is translated into assembly code and written to a `.asm` f
 
 ### Run
 ```bash
-python3 final_4838
-.py test.greek
+python3 greek_4838.py test.greek
